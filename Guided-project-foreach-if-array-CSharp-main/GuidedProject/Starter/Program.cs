@@ -1,7 +1,4 @@
-﻿using System;
-using System.Security.Cryptography.X509Certificates;
-
-// initialize variables - graded assignments 
+﻿// initialize variables - graded assignments 
 int examAssignments = 5;
 
 int[] sophiaScores = new int[] { 90, 86, 87, 98, 100, 94, 90 };
